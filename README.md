@@ -1,2 +1,3 @@
 # makro
-A macropad with 20 hot-swappable hall effect / mechanical switches and a build in, remappable usb hub, plus more! ⌨️
+## Warning
+**This project is currently in very early development!** I am still prototyping, so many features will be unavailable.
