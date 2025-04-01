@@ -1,5 +1,5 @@
 <img src="assets/banner_text.png" />
-info here
+**makro** is a custom macropad build with hall effect and mechanical switch compatability in mind, allowing you to leverage analog specific features like SOCD or rapid trigger, or choose to use mechanical switches.
 
 ## 🚧 Disclaimer
 ### This project is currently in very early development!
@@ -35,9 +35,9 @@ Features per-switch gradients and diffused backlighting for a visually appealing
     * waiting on production
 
 ## 🔗 Links
-* [v1 Schematics & PCB](https://github.com/meeplabsdev/makro/schematic/v1/schematic)
-* [v1 Design Files](https://github.com/meeplabsdev/makro/schematic/v1/design)
-* [v1 SRC](https://github.com/meeplabsdev/makro/schematic/v1/src)
+* [v1 Schematics & PCB](https://github.com/meeplabsdev/makro/tree/main/schematic/v1/schematic)
+* [v1 Design Files](https://github.com/meeplabsdev/makro/tree/main/schematic/v1/design)
+* [v1 SRC](https://github.com/meeplabsdev/makro/tree/main/schematic/v1/src)
 
 ## 📝 Credits / References
 * [Macrolev](https://github.com/heiso/macrolev)
