@@ -1,3 +1,4 @@
+<img src="assets/banner.png" />
 # makro
 ## ⚠️ Warning
 ### This project is currently in very early development!
