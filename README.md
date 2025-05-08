@@ -33,7 +33,7 @@ Features per-switch gradients and diffused backlighting for a visually appealing
     * [x] usb c
     * [x] stm32
   * [ ] manufacture
-    * waiting on production
+    * waiting on delivery
 
 ## 🔗 Links
 * [v1 Schematics & PCB](https://github.com/meeplabsdev/makro/tree/main/schematic/v1/schematic)
