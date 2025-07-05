@@ -1,4 +1,4 @@
-<img src="assets/banner_text.png" />
+<img src="assets/7_banner.png" />
 
 **makro** is a custom macropad build with hall effect and mechanical switch compatability in mind, allowing you to leverage analog specific features like SOCD or rapid trigger, or choose to use mechanical switches.
 
