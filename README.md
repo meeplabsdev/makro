@@ -3,8 +3,8 @@
 **makro** is a custom macropad with hotswap keys and a built-in USB hub with remap port.
 
 ## 🚧 Disclaimer
-### This project is currently in very early development!
-I am still prototyping, so many features will be unavailable.
+### I am not a professional!
+No guarantee this will work for you, I'm still learning!
 If you wish to support the development of this project, any [donations](https://ko-fi.com/M4M8115JLS) are welcome, or you can [submit a PR](https://github.com/meeplabsdev/makro/pulls)!
 
 ## 🔧 Features
